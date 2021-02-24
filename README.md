@@ -5,7 +5,9 @@ A brief description of what this repository is for and what it contains
 # Contributors
 
 Teresa Rice - tpillars@bu.edu
+
 Maha Naim - mnaim21@bu.edu
+
 Arushi Shrivastava - arushi08@bu.edu
 
 # Repository Contents
